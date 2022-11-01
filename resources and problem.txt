@@ -1,0 +1,8 @@
+01:39 AM 01-11-2022
+
+https://github.com/netqyq/yolo-format
+https://arxiv.org/pdf/2205.14100v2.pdf
+https://neurohive.io/en/news/transformer-model-used-to-recognize-text-in-images/
+https://www.youtube.com/watch?v=VmqESKaaYVk&t=95s&ab_channel=DeepLearning
+
+Doubt: How to handle images of variable resolution.
