@@ -1,0 +1,9 @@
+train: /content/License_plate_ocr/data/data/images/train  # train images (relative to 'path') 128 images
+val: /content/License_plate_ocr/data/data/images/val  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: Text
+  
+
